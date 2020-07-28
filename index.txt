@@ -1,1 +1,5 @@
-hi this is first file
+hi it is first file
+this is 2nd line, ok
+and my 
+last line is not 3rd
+
